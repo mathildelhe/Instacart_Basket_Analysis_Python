@@ -6,7 +6,7 @@ You can find the details of the project [here](https://images.careerfoundry.com/
 These notebooks contain my data preparation steps, consistency checks, derivation of variables, grouping and aggregating for descriptive analysis,  and visualisations creation in order to answer the business questions set by the stakeholders.
 
 ## Objectives
-Instacart, an online grocery store, wantq to uncover more information about their sales patterns. My task, as an analyst, was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+Instacart, an online grocery store, wants to uncover more information about their sales patterns. My task, as an analyst, was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 ## Key questions
 
