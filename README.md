@@ -1,4 +1,4 @@
-# Python - Jupyter Notebooks for Data Analysis
+# Instacart Basket - Data Analysis with Python - Jupyter Notebooks*
 This repository contains the notebooks I created as part of my Data Analysis curse with CareerFoundry.
 
 You can find the details of the project [here](https://images.careerfoundry.com/public/courses/data-immersion/A4/A4_Data_Immersion_Project_Brief.pdf).
@@ -42,9 +42,13 @@ customers in their system and how their ordering behaviors differ. For example:
 
 ## Data sets used
 Customers
+
 Orders
+
 Orders_products_prior
+
 Products
+
 Departments
 
 
